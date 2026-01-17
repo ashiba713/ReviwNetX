@@ -1,0 +1,6 @@
+user,product,rating,text,timestamp
+u1,p1,5,Great product loved it,2024-01-01
+u2,p1,5,Great product loved it,2024-01-01
+u3,p1,5,Great product loved it,2024-01-01
+u1,p2,5,Highly recommended,2024-01-02
+u2,p2,5,Highly recommended,2024-01-02
